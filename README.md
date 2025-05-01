@@ -18,11 +18,9 @@ Guilherme Teixeira -> up202204875@up.pt
 
 Júlio Santos -> up202207975@up.pt
 
-Martim Ferreira -> up202208429@up.pt
-
 Gabriel Sousa -> up202108816@up.pt
 
-Sofia Blyzniuk -> up202209448@up.pt
+Project Grade: 16.3
 
 ---
 ## Business Modelling
